@@ -1,0 +1,13 @@
+.btn {
+   background-color: green;
+    border: red;
+}
+
+btn:hover {
+    background-color: red;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
